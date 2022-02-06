@@ -1,0 +1,12 @@
+requests
+bs4
+mock
+pypd
+boto3
+graphene
+promise
+cachetools==3.1.1
+jinja2
+validate_email
+lxml
+PyPDF4
